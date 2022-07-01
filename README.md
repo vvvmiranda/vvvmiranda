@@ -1,4 +1,4 @@
-<h3 align="center">A Python student, currently learning Data Science.</h3>
+<h3 align="center">A Python student,currently learning Data Science.</h3>
 
 - Currently learning **Python.**
 
